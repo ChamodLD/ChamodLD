@@ -27,3 +27,25 @@ I'm passionate about designing intelligent engineering systems that combine embe
 * Internet of Things (IoT)
 * Industrial Automation
 * Smart Healthcare Technologies
+
+## ⭐ Featured Projects
+
+### 🤖 SLRC 2026 – Autonomous Vision-Based Robotic System
+
+An autonomous mobile robot for the Sri Lanka Robotics Challenge using **Raspberry Pi, OpenCV, YOLOv8, and embedded control systems**.
+
+### 🏆 EN2533 – Robot Design and Competition 2025
+
+A fully autonomous mobile robot for the **EN2533 Robot Design and Competition** capable of completing multiple predefined tasks within a fixed time limit.
+
+### 💉 IoT-Based IV Fluid Monitoring System
+
+A smart healthcare monitoring solution with **real-time IV fluid tracking, cloud connectivity, alerts, and remote data visualization**.
+
+### 🎵 Analog Audio Effect Processor
+
+AN analog audio processing system featuring **equalization, tremolo, phaser, overdrive effects, and a dedicated power supply**.
+
+
+
+
